@@ -114,8 +114,8 @@ Used as the end-to-end platform for data cleaning, analysis, and visualization.
 ---
 
 ## 📸 Dashboard Preview
-> *(Add a screenshot of your dashboard here)*  
-> You can upload an image and reference it like this:
-```markdown
-![HR Analytics Dashboard](dashboard_screenshot.png)
+
+![HR Analytics Dashboard](https://github.com/JeeniyaShakya/HR_Analysis_Dashboard/blob/main/Screenshot%202026-02-05%20160601.png)
+
+
 
